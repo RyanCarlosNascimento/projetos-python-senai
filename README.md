@@ -47,11 +47,11 @@ Carga Horária: 60 horas
 ✔️ Programação prática orientada a dados
 
 ## 🚀 Status do Repositório
-curso-python-senai ✅ Concluindo
+curso-python-senai ✅ Concluido
 
-curso-python-curso-em-video ✅ Em andamento
+curso-python-curso-em-video 🟡 Em andamento
 
-curso-python-data-science-senai 🚧 Em breve
+curso-python-data-science-senai 🚧 🟡 Em andamento
 
 ## 👨‍💻 Autor
 Ryan ✨
