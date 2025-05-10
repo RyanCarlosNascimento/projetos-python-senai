@@ -51,7 +51,7 @@ curso-python-senai ✅ Concluido
 
 curso-python-curso-em-video 🟡 Em andamento
 
-curso-python-data-science-senai 🚧 🟡 Em andamento
+curso-python-data-science-senai 🟡 Em andamento
 
 ## 👨‍💻 Autor
 Ryan ✨
